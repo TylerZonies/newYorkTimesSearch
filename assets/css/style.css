@@ -1,0 +1,27 @@
+.jumbotron{
+    text-align: center;
+    background-color: darkcyan;
+    color: white;
+}
+
+body{
+    background-image: url("../one.jpg");
+}
+
+a{
+    color: black;
+    text-decoration: "none";
+}
+
+a:hover{
+    text-decoration: underline;
+    opacity: 0.7;
+}
+
+.card{
+    margin-bottom: 10px;
+}
+
+.btn{
+    background-color: darkcyan;
+}
